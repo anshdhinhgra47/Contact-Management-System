@@ -1,5 +1,6 @@
 # Contact-Management-System
-Contact Management System that I designed using C++
+Contact Management System that I designed using C++.
+<br>
 A user can input a contact, display the entire contact list, sort the contacts, search a contact and even delete a contact.
 
 
